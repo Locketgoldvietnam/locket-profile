@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>PayloadType</key>
+      <string>com.apple.dnsSettings.managed</string>
+
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+
+      <key>PayloadIdentifier</key>
+      <string>com.nextdns.locketvn.93ed33</string>
+
+      <key>PayloadUUID</key>
+      <string>F3A12C9E-9B77-4E4B-A0B3-93ED33AA1111</string>
+
+      <key>PayloadDisplayName</key>
+      <string>Locket Việt Nam</string>
+
+      <key>PayloadDescription</key>
+      <string>Official Locket Gold Provider</string>
+
+      <key>DNSSettings</key>
+      <dict>
+        <key>DNSProtocol</key>
+        <string>HTTPS</string>
+
+        <key>ServerURL</key>
+        <string>https://dns.nextdns.io/93ed33</string>
+      </dict>
+    </dict>
+  </array>
+
+  <key>PayloadType</key>
+  <string>Configuration</string>
+
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+
+  <key>PayloadIdentifier</key>
+  <string>com.locketvietnam.profile</string>
+
+  <key>PayloadUUID</key>
+  <string>93ED33BB-2222-4444-8888-LOCKETVN0000</string>
+
+  <key>PayloadDisplayName</key>
+  <string>Locket Việt Nam - DNS</string>
+
+  <key>PayloadDescription</key>
+  <string>Official Locket Gold Provider</string>
+
+</dict>
+</plist>
